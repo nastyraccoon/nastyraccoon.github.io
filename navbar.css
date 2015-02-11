@@ -6,13 +6,6 @@ color: #ffffff;
 height: 35px;
 text-align: center;
 padding-top: 15px;
-/* Adds shadow to the bottom of the bar */
--webkit-box-shadow: 0px 0px 8px 0px #000000;
--moz-box-shadow: 0px 0px 8px 0px #000000;
-box-shadow: 0px 0px 8px 0px #000000;
-/* Adds the transparent background */
-background-color: rgba(1, 1, 1, 0.8);
-color: rgba(1, 1, 1, 0.8);
 }
 
 #navigation a {
@@ -30,6 +23,7 @@ color: #A9D0F5;
 #container {
 width:960px;
 margin:20px auto;
+border:5x black;
 }
 
 #content {
@@ -38,7 +32,7 @@ margin:20px auto;
 }
 
 #footer {
-    clear:both;
+border: 2x black;
 }
 
 
