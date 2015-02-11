@@ -2,13 +2,13 @@
 position: fixed;
 top: 0;
 width: 100%;
-background-color: black;
 height: 35px;
 text-align: center;
 padding-top: 15px;
 }
 
 #navigation a {
+background-color: black;
 font-size: 14px;
 padding-left: 15px;
 padding-right: 15px;
