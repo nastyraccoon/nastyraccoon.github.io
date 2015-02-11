@@ -27,18 +27,25 @@ text-decoration: none;
 color: #A9D0F5;
 } 
 
-body {
+#container {
+width:960px;
+margin:20px auto;
+}
+
+#content {
+    float:left;
+    width 960px;
+}
+
+#footer {
+    clear:both;
+}
+
+
+#body {
 background-color: #E0F2F7;
 font-family:georgia;
 
-div {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
 
-    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
-}
 }
 
