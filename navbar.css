@@ -21,25 +21,23 @@ color: #A9D0F5;
 } 
 
 #container {
+background-color: #E0F2F7;
+font-family:georgia
 width:960px;
 margin:20px auto;
 border:5x black;
 }
 
 #content {
-    float:left;
-    width 960px;
+background-color: #E0F2F7;
+font-family:georgia
+float:left;
+width 960px;
 }
 
 #footer {
+clear: both;
 border: 2x black;
 }
 
-
-#body {
-background-color: #E0F2F7;
-font-family:georgia;
-
-
-}
 
