@@ -21,6 +21,8 @@ color: #A9D0F5;
 } 
 
 #container {
+min-height: 100%;
+position: relative;
 background-color: #E0F2F7;
 font-family:georgia
 width:960px;
