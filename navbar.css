@@ -21,6 +21,7 @@ color: #A9D0F5;
 } 
 
 #container {
+height: 100%;
 background-color: #E0F2F7;
 font-family:georgia
 width:960px;
@@ -36,7 +37,8 @@ width 960px;
 }
 
 #footer {
-clear: both;
+width: 100%;
+bottom: 0;
 border: 2x black;
 }
 
