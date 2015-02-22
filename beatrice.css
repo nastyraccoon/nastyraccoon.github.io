@@ -1,13 +1,13 @@
 /*navigation bar styling*/
 #navbar { 
-  width: 100%;
+  width: auto;
   float: left;
   margin: 0;
   padding: 0;
   list-style: none;
   background-color: #A9E2F3; 
   border-bottom:1px solid;
-  border-top 1px solid;
+  border-top: 1px solid;
 }
 #navbar li { 
   float: left;
