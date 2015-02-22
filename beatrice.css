@@ -1,12 +1,26 @@
-.wrapper {
-  height:100vh;
-  display:flex;
-  // Direction of the items, can be row or column
-  flex-direction: column;
+/*navigation bar styling*/
+#navbar { 
+  width: 100%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: #A9E2F3; 
+  border-bottom:1px solid;
+  border-top 1px solid;
 }
-header, footer {
-  height: 30px;
+#navbar li { 
+  float: left;
 }
-main {
-  flex:1;
+#navbar li a{ 
+  display: block;
+  padding: 8px 15px;
+  text-decoration: none;
+  color: #19070B;
+  border-right:1px solid;
 }
+#navbar li a:hover {
+  color: #FF0000;
+  background-color: #F8E0E0;
+}
+
