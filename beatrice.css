@@ -35,12 +35,13 @@
   text-align: center;
   padding: 5px;
   margin: 0;
-    img { 
-        float: left;
-        width: auto;
-        height: auto;
-        }
-  
+}
+
+div#header img {
+  float: left;
+  width:100; /* the width of the logo image */
+  height:100 ; /* the height of the logo image */
+  margin:0 auto;
 }
 
 /*site content styling*/
