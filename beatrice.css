@@ -35,6 +35,11 @@
   text-align: center;
   padding: 5px;
   margin: 0;
+    img { 
+        float: left;
+        width: auto;
+        height: auto;
+        }
   
 }
 
