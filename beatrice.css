@@ -30,8 +30,8 @@
   font-size: 20px;
   color: black;
   width:100%;
-  height: 10px ;
-  background-color: none;
+  height: 50px ;
+  background-color: #BDBDBD;
   text-align: center;
   padding: 5px;
   
@@ -43,6 +43,7 @@
     font-size: 14;
     float: left;
     width: 100%;
+    height: 500px;
     color: black;
     background-color: #A9E2F3;
     margin: 5px;
@@ -54,8 +55,8 @@
     font-size: 12;
     float:left;
     width:; 100%;
-    background color: #BDBDBD;
-    border-top: #c00 solid 1px;
+    background-color: #BDBDBD;
+    border-style: #c00 solid;
   }
 
 
