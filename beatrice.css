@@ -34,6 +34,7 @@
   background-color: #BDBDBD;
   text-align: center;
   padding: 5px;
+  margin: 0;
   
 }
 
@@ -46,7 +47,8 @@
     height: 500px;
     color: black;
     background-color: #A9E2F3;
-    margin: 5px;
+    margin: 0px;
+    padding: 0px;
   }
 
 /*footer styling*/
