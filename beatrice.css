@@ -36,26 +36,26 @@
   padding: 5px;
   
 }
-#container {
+
 /*site content styling*/
-#content {
-  font: serif;
-  font-size: 14;
-  float: left;
-  width: 100%;
-  color: black;
-  background-color: #A9E2F3;
-  margin: 5px;
-}
+  #content {
+    font: serif;
+    font-size: 14;
+    float: left;
+    width: 100%;
+    color: black;
+    background-color: #A9E2F3;
+    margin: 5px;
+  }
 
 /*footer styling*/
-#footer {
-  font: serif;
-  font-size: 12;
-  float:left;
-  width:; 100%;
-  background color: #BDBDBD;
-  border-top: #c00 solid 1px;
-}
+  #footer {
+    font: serif;
+    font-size: 12;
+    float:left;
+    width:; 100%;
+    background color: #BDBDBD;
+    border-top: #c00 solid 1px;
+  }
 
-}
+
