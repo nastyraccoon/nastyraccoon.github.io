@@ -50,39 +50,62 @@ div#header img {
 }
 
 /*site content styling*/
-  #content {
-    font: serif;
-    font-size: 14;
-    width: 100%;
-    height: auto;
-    color: black;
-    background-color: #A9E2F3;
-    margin: 0px;
-    padding: 0px;
-  }
-  div#content img {
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    background-color: #b0e0e6;
-  }
-  
-  #image-right {
-    float: right;
-    width: 40%;
-    height: 40%;
-  }
-  #image-center {
-    display: block;
-    width: 40%;
-    height: 40%;
-    margin: auto;
-  }
-  #image-left {
-    float:left;
-    width: 40%;
-    height: 40%;
-  }
+#cases {
+	padding: 90px 0 95px;
+}
+
+#cases ul {
+	overflow: hidden;
+}
+
+#cases li {
+	display: block;
+}
+
+.span3 {
+	float: left;
+	width: 33.333333%;
+}
+
+#cases a {
+	display: block;
+	position: relative;
+}
+
+#cases a img {
+	display: block;
+	height: auto;
+	width: 100%;
+	position: relative;
+}
+
+#cases a div {
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 0;
+}
+
+#cases a strong {
+	color: #928452;
+	display: block;
+	margin-top: 82%;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.05em;
+	font-weight: 500;
+	letter-spacing: .2em;
+	line-height: 150%;
+}
+
+#cases a span {
+	color: #666666;
+	display: block;
+	font-style: oblique;
+	letter-spacing: .1em;
+}
 
 /*footer styling*/
   #footer {
