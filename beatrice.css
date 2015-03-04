@@ -123,7 +123,7 @@ div#header img {
 }
 
 #footer ul {
-	overflow: hidden;
+	overflow: scroll;
 }
 
 #footer li {
