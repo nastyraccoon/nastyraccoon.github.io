@@ -38,7 +38,7 @@
   background-image: url(https://cloud.githubusercontent.com/assets/10916107/6318145/b2a8640c-babb-11e4-8318-e8b8d93d28cf.png);
   background-repeat: no-repeat;
   background-size: 250px auto;
-  background-position: left top;
+  background-position: left;
   padding-top:200px;
 }
 
@@ -55,11 +55,31 @@ div#header img {
     font-size: 14;
     float: left;
     width: 100%;
-    height: 500px;
+    height: auto;
     color: black;
     background-color: #A9E2F3;
     margin: 0px;
     padding: 0px;
+  }
+  div#content img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: #b0e0e6;
+  }
+  
+  #image-right{
+    float: right;
+    width: 250px;
+  }
+  #image-center {
+    display: block;
+    width: 250 px;
+    margin: auto;
+  }
+  #image-left{
+    float:left;
+    width: 250px;
   }
 
 /*footer styling*/
