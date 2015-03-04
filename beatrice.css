@@ -107,14 +107,40 @@ div#header img {
 	letter-spacing: .1em;
 }
 
-/*footer styling*/
-  #footer {
-    font: serif;
-    font-size: 12;
-    float:left;
-    width: 100%;
-    background-color: #BDBDBD;
-    border-style: solid black;
-  }
+/* ===== HOME FOOTER STYLES ===== */
+
+.wrapBorder {
+	border-top: 1px solid #cccccc;
+}
+
+footer[role="footer"] {
+	font-family: "BryantPro-Medium", Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: .875em;
+	font-weight: 500;
+	letter-spacing: .2em;
+	text-transform: uppercase;
+	overflow: hidden;
+	text-align: center;
+	padding: 22px 0 17px;
+}
+
+footer[role="footer"] ul {
+	overflow: hidden;
+}
+
+footer[role="footer"] li {
+	display: inline-block;
+	padding: 0 2%;
+}
+
+footer[role="footer"] a {
+	color: #666666;
+}
+
+footer[role="footer"] a:hover {
+	color: #928452;
+	opacity: .7; 
+}
 
 
