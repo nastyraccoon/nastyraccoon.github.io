@@ -67,18 +67,21 @@ div#header img {
     background-color: #b0e0e6;
   }
   
-  #image-right{
+  #image-right {
     float: right;
     width: 250px;
+    height: 250px;
   }
   #image-center {
     display: block;
-    width: 250 px;
+    width: 250px;
+    height: 250px;
     margin: auto;
   }
-  #image-left{
+  #image-left {
     float:left;
     width: 250px;
+    height: 250px;
   }
 
 /*footer styling*/
