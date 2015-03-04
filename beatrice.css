@@ -52,6 +52,7 @@ div#header img {
 /*site content styling*/
 #cases {
 	padding: 90px 0 95px;
+	padding-bottom:200px;
 }
 
 #cases ul {
@@ -118,6 +119,7 @@ div#header img {
 	overflow: hidden;
 	text-align: center;
 	padding: 22px 0 17px;
+	height:200px;
 }
 
 #footer ul {
