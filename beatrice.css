@@ -107,13 +107,13 @@ div#header img {
 	letter-spacing: .1em;
 }
 
-/* ===== HOME FOOTER STYLES ===== */
+/* FOOTER */
 
 .wrapBorder {
 	border-top: 1px solid #cccccc;
 }
 
-footer[role="footer"] {
+#footer {
 	font-family: "BryantPro-Medium", Arial, Helvetica, sans-serif;
 	color: #666666;
 	font-size: .875em;
@@ -125,20 +125,20 @@ footer[role="footer"] {
 	padding: 22px 0 17px;
 }
 
-footer[role="footer"] ul {
+#footer ul {
 	overflow: hidden;
 }
 
-footer[role="footer"] li {
+#footer li {
 	display: inline-block;
 	padding: 0 2%;
 }
 
-footer[role="footer"] a {
+#footer a {
 	color: #666666;
 }
 
-footer[role="footer"] a:hover {
+#footer a:hover {
 	color: #928452;
 	opacity: .7; 
 }
