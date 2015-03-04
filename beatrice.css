@@ -69,19 +69,19 @@ div#header img {
   
   #image-right {
     float: right;
-    width: 250px;
-    height: 250px;
+    width: 40%;
+    height: 40%;
   }
   #image-center {
     display: block;
-    width: 250px;
-    height: 250px;
+    width: 40%;
+    height: 40%;
     margin: auto;
   }
   #image-left {
     float:left;
-    width: 250px;
-    height: 250px;
+    width: 40%;
+    height: 40%;
   }
 
 /*footer styling*/
